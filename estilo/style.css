@@ -38,12 +38,11 @@ header> p{
 }
 body{
     font-size: 30px;
-    background-size: cover;
     background-color: white;
     font-family: var(--fonte3);
 }
 div.conteiner{
-    background-size: cover;
+    background-size: content;
 }
 div.i1{
     padding: 5%;
@@ -66,7 +65,7 @@ div.text{
     text-align: left;
 }
 div.opacity{
-    box-align: left;
+    text-align: left;
     background-color: black;
     opacity: 50%;
     min-width: 300px;
