@@ -21,7 +21,7 @@ header{
     padding: 7% 0%;    
 }
 header > h1{
-    font-size: 50px;
+    font-size: 10vw;
     font-variant: small-caps;
     font-family: var(--fonte2);
     margin: 1%;
@@ -33,13 +33,13 @@ header> p> a{
     font-family: var(--fonte1);
 }
 header> p{ 
-    font-size: 20px;
+    font-size: 3vw;
     color: white;
     text-decoration: none;
     font-family: var(--fonte1);
 }
 body{
-    font-size: 30px;
+    font-size: 5vw;
     background-color: white;
     font-family: var(--fonte3);
 }
@@ -72,10 +72,9 @@ div.opacity{
     text-align: left;
     background-color: black;
     opacity: 50%;
-    min-width: 300px;
-    max-width: 500px;
+    display: inline-block;
     color: white;
-    margin: 0% 10%;
+    padding: 0% 5%;
 }
 footer{
     color: white;
@@ -83,7 +82,7 @@ footer{
     text-align: center;   
     font-family: var(--fonte1);
     padding: 2%;
-    font-size: 17px;
+    font-size: 3vw;
 }
 footer > p > a {
     color: white;
