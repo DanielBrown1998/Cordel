@@ -44,7 +44,7 @@ body{
     font-family: var(--fonte3);
 }
 div.conteiner{
-    background-size: content;
+    background-size: cover;
 }
 div.i1{
     padding: 5%;
@@ -57,7 +57,7 @@ div.i1{
 div.i2{
     padding: 5%;
     background-image: url('../imagens/background002.jpg');
-    background-position: center center;
+    background-position: right center;
     background-color: white;
     background-repeat: no-repeat;
     background-attachment: fixed;
